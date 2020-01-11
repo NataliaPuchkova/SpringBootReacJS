@@ -1,5 +1,5 @@
-# SpringBootReacJS
+# SpringBootReactJS
 
-## This repo for Simple ReactJS + Spring Boot application
+## This repo for Simple ReacttJS + Spring Boot application
 
 ### Step1. Architecture
