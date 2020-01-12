@@ -1,4 +1,4 @@
-# SpringBootReactJS
+# SpringBoot + AngularJS
 
 ## This repo for Simple AngularJS + Spring Boot application
 
