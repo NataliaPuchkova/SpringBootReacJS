@@ -1,5 +1,10 @@
 # SpringBootReactJS
 
-## This repo for Simple ReacttJS + Spring Boot application
+## This repo for Simple AngularJS + Spring Boot application
 
 ### Step1. Architecture
+
+
+example
+
+curl -X GET -v -i 'http://localhost:8080/task/getAll'
